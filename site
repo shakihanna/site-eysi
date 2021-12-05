@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    <meta charset="UTF-8">
+    <title>YeK</title>
+    <link rel="stylesheet" type="text/css" href="css/stylesheet.css">
+</head>
+
+<body>
+    <h1>o g u z</h1>
+    <img src="img/yek.jpeg" width="200" />
+    <ol>
+        <li><a href="#summary">Özet</a></li>
+       
+        <li><a href="#education">Eğitim</a></li>
+        <li><a href="#skills">Yetenekler</a></li>
+        <li><a href="#contact">İletişim</a></li>
+    </ol>
+    <section id="summary">
+        <h2>
+            Özet
+        </h2>
+        <p>
+            Ben Oğuzkağan Alper. İstanbul'da doğdum ve hala burda yaşıyorum. Kabataş 26 dönemim. Almancacıyım. Galatasaray'da sutopu oynuyorum. Rihanna'ya ve Shakira'ya tapıyorum. Bilgisayardan aslında fazla anlamıyorum hehe. İleride bu kafayla devam edersem stripper olacağım ühühü. İnş gelecekte kimse bunları okumaz fazla cringe
+        </p>
+    </section>
+    
+        </p>
+    </section>
+    <section id="education">
+        <h2>Eğitim</h2>
+        <ul>
+            <li>
+                <strong>Bilfen Ataşehir Ortaokulu</strong><br>
+               
+            </li>
+            <li>
+                <strong>Kabataş Erkek Lisesi</strong><br> '26
+                <br>
+            </li>
+        </ul>
+    </section>
+    <section id="skills">
+        <h2>Yetenekler</h2>
+        <ol>
+            <li>
+                Dedikodu
+            </li>
+            <li>
+                Pozitiflik veren veya strip-club vibei veren şarkılarla ağlamak lol
+            </li>
+            <li>
+                Ortamı neşelendirme
+		    </li>
+			     Cringe bir fan sayfası admini olma ve priv storylerine yaratıcı captionlar
+            </li>
+        </ol>
+    </section>
+    <footer>
+        <section id="contact">
+            <h2>İletişim</h2>
+            <ul>
+                <li>
+                    <a href="https://www.instagram.com/oguzkaganalper/">Instagram</a>
+                </li>
+                <li><a href="https://github.com/shakihanna">Github</a></li>
+            </ul>
+        </section>
+    </footer>
+</body>
+
+</html>
